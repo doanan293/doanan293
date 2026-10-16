@@ -6,9 +6,9 @@ I'm a full-stack AI engineer in Hanoi. I build LLM agents, RAG systems, document
 
 - [ViPharmind](https://github.com/doanan293/ViPharmind): an agentic RAG assistant for Vietnamese drug information. Hybrid retrieval with a reranker reaches Hit@10 97.7%, and the agent hallucinates 18 times less than the model on its own. Published at SoICT 2026. [Live demo](https://vipharmind.vercel.app)
 - [ViLearnest](https://github.com/doanan293/ViLearnest): a full-stack learning platform with Stripe payments, built on Next.js, Fastify and PostgreSQL. [Live demo](https://vilearnest.vercel.app)
-- [hust-information-retrieval](https://github.com/doanan293/hust-information-retrieval): a crawling and document parsing pipeline that turned 92k web pages and 3k files into a versioned corpus of 80k articles.
-- [vietnamese-text-normalization-for-speech](https://github.com/doanan293/vietnamese-text-normalization-for-speech): ViCleaner, a library that rewrites Vietnamese numbers, dates and units as spoken words before text-to-speech.
-- [Vietnamese-Stocks-Recommendation-System](https://github.com/doanan293/Vietnamese-Stocks-Recommendation-System): stock recommendations from news, prices and financial ratios, published at ICISN.
+- [ViWebCorpusPipeline](https://github.com/doanan293/ViWebCorpusPipeline): a crawling and document parsing pipeline that turned 92k web pages and 3k files into a versioned corpus of 80k articles.
+- [ViTextNormalizer](https://github.com/doanan293/ViTextNormalizer): a library that rewrites Vietnamese numbers, dates and units as spoken words before text-to-speech.
+- [ViStockRecommender](https://github.com/doanan293/ViStockRecommender): stock recommendations from news, prices and financial ratios, published at ICISN.
 
 Most of my production work lives in private repositories: document extraction for courts and banks (48 document types, 22,000 pages a day), a voice reporting assistant for airline cabin crew, a text-to-SQL analytics assistant, and an MCP-based accounting assistant used by 10,000 organizations.
 
