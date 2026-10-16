@@ -9,6 +9,7 @@ I'm a full-stack AI engineer in Hanoi. I build LLM agents, RAG systems, document
 - [WebCorpusPipeline](https://github.com/doanan293/WebCorpusPipeline): a crawling and document parsing pipeline that turned 92k web pages and 3k files into a versioned corpus of 80k articles.
 - [SpeechTextNormalizer](https://github.com/doanan293/SpeechTextNormalizer): a library that rewrites Vietnamese numbers, dates and units as spoken words before text-to-speech.
 - [StockSentimentAdvisor](https://github.com/doanan293/StockSentimentAdvisor): stock recommendations from news, prices and financial ratios, published at ICISN.
+- [DQNStockTrader](https://github.com/doanan293/DQNStockTrader): Double DQN agents in PyTorch that trade ten Vietnamese stocks with fees and taxes, tested honestly against buy-and-hold.
 
 Most of my production work lives in private repositories: document extraction for courts and banks (48 document types, 22,000 pages a day), a voice reporting assistant for airline cabin crew, a text-to-SQL analytics assistant, and an MCP-based accounting assistant used by 10,000 organizations.
 
